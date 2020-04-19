@@ -17,4 +17,4 @@ for(let i = 0; i < arrayString.length; i++)
     }
 }
 
-console.log(delimitersCounter);
+console.log(--delimitersCounter);
